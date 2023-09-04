@@ -1,0 +1,23 @@
+.navbar {
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    color: azure;
+    padding-left: 20px;
+    padding-right: 60px;
+    align-items: center;
+    text-decoration: none;
+    
+}
+.navbar ul {
+    display: flex;
+    gap: 2rem;
+    color: azure;
+}
+.link {
+    text-decoration: none;
+    color: beige;
+}
+.link:hover {
+  scale: 1.1;
+}
