@@ -42,7 +42,6 @@ function GetMovies({ images }: any) {
                     <img src={images[nextIndex]} alt="" />
                 </div>
 
-
             </div >
         </div>)
 }
